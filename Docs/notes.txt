@@ -1,0 +1,66 @@
+Livpure Smart
+Powerd by HOKa
+
+lavander-color: rgb(71,48,139); 
+Lavender
+
+orange-color: rgb(249,114,6);
+Orange
+
+gold-color: rgb(242,186,3);
+
+grey-color: rgb(218,218,218);
+
+
+dark-grey-color: rgb(95,95,95);
+
+Welcome
+livpure smart is the best choice in india
+
+Choose Plan
+ID & Address proof
+Installation
+
+As per your submitted details the best plan for you:
+
+Livpure Superior Envy
+GOLD PLAN
+188 Liters/Month
+
+Seleect Convenient Plan Duration
+
+12 Months
+Rs. 6225
+Get 1 month free
+
+6 Months
+Rs. 3850
+Free Extra water
+
+1 Month
+Rs. 575
+
+Remember: Additional usage @ Rupeesymbol 3.5 / Litre
+Select Plan
+
+
+Livpure Envy Pro
+GOLD PLAN
+188 Liters/Month
+
+Seleect Convenient Plan Duration
+
+12 Months
+Rs. 5225
+Get 1 month free
+
+6 Months
+Rs. 2850
+Free Extra water
+
+1 Month
+Rs. 475
+
+Remember: Additional usage @ Rupeesymbol 2.5 / Litre
+Select Plan
+

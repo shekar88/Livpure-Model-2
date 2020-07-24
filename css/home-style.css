@@ -1,0 +1,189 @@
+.lavander-color {
+    color: rgb(71,48,139);
+}
+
+.lavander-bg-color {
+    background-color: rgb(71,48,139);
+}
+
+.orange-color {
+    color: rgb(249,114,6);
+}
+
+.orange-bg-color {
+    background-color: rgb(249,114,6);
+}
+
+.gold-color {
+    color: rgb(242,186,3);
+}
+.gold-bg-color {
+    background-color: rgb(242,186,3);
+}
+
+.grey-color {
+    color: rgb(218,218,218);
+}
+.grey-bg-color {
+    background-color: rgb(218,218,218);
+}
+
+.dark-grey-color {
+    color: rgb(95,95,95);
+}
+.dark-grey-bg-color {
+    background-color: rgb(95,95,95);
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+}
+
+.font-xds {
+    font-size: 0.8rem;
+}
+
+.font-xs {
+    font-size: 1rem;
+}
+
+.font-sm {
+    font-size: 1.2rem;
+}
+
+.font-msd {
+    font-size: 1.5rem;
+}
+
+.font-md {
+    font-size: 2.2rem;
+}
+
+.font-lg {
+    font-size: 2.5rem;
+}
+
+.header {
+    box-shadow: 0 .5rem 1rem rgb(71,48,139);
+}
+
+.logo {
+    width: 180px;
+}
+
+.logo-wrap {
+    display: flex;
+    align-items: flex-end;
+}
+
+.logo-content {
+    position: relative;
+    top: 15px;
+}
+
+.signup-btn {
+    border-radius: 30px;
+}
+
+.welcome-warp {
+    position: relative;
+}
+
+.circle-wrap {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    z-index: 3;
+}
+
+.circle-inner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+
+.account-wrap {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.choose-plan {
+    display: flex;
+    align-items: center;
+    width: 33%;
+}
+
+.circle-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 2rem;
+}
+
+.line-wrap-success {
+    position: absolute;
+    bottom: 12%;
+    left: 30px;
+    width: 25%;
+    border: 2px solid rgb(249,114,6);
+    z-index: 2;
+}
+
+.line-wrap-process {
+    position: absolute;
+    bottom: 12%;
+    left: 10px;
+    width: 95%;
+    border: 2px solid rgb(218,218,218);
+    z-index: 1;
+}
+
+
+.plan-duration {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 5px;
+}
+
+.plan-duration-inner {
+    width: 32%;
+    border-radius: 3px;
+}
+
+.plan-container {
+    width: 100%;
+    border: 2px solid rgb(91,91,91);
+    border-radius: 10px;
+}
+
+.plan-container-inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.plan-type-wrap {
+    width: 65%;
+}
+
+.plan-price-wrap {
+    width: 30%;
+}
+
+.sel-btn-plan {
+    padding: 10px 10px;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+.offer-wrap {
+    border-radius: 30px;
+}
